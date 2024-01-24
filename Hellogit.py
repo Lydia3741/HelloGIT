@@ -1,3 +1,3 @@
-print ("Hello GIT")
-console.log("Hello GIT")
- 
+
+
+print ("Hello GIT 4")
